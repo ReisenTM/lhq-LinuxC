@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/anytimer.dir/main.c.o CMakeFiles/anytimer.dir/timer.c.o -o anytimer 

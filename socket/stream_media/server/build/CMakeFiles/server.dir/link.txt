@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/server.dir/medialib.c.o CMakeFiles/server.dir/mytbf.c.o CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/thr_channel.c.o CMakeFiles/server.dir/thr_list.c.o -o bin/server 

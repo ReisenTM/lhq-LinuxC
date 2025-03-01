@@ -1,0 +1,3 @@
+/home/reisen/project/posix/semaphore/build/CMakeFiles/mysem.dir
+/home/reisen/project/posix/semaphore/build/CMakeFiles/edit_cache.dir
+/home/reisen/project/posix/semaphore/build/CMakeFiles/rebuild_cache.dir

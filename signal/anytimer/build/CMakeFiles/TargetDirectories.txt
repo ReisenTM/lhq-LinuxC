@@ -1,0 +1,3 @@
+/home/reisen/project/signal/anytimer/build/CMakeFiles/anytimer.dir
+/home/reisen/project/signal/anytimer/build/CMakeFiles/edit_cache.dir
+/home/reisen/project/signal/anytimer/build/CMakeFiles/rebuild_cache.dir

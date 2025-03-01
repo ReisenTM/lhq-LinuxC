@@ -1,0 +1,23 @@
+{
+    errdata = "\27[01m\27[Kmain.c:\27[m\27[K In function ‘\27[01m\27[Kmain\27[m\27[K’:\
+\27[01m\27[Kmain.c:9:15:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kpassing argument 2 of ‘\27[01m\27[KsetTimer\27[m\27[K’ from incompatible pointer type [\27[01;35m\27[K-Wincompatible-pointer-types\27[m\27[K]\
+    9 |   setTimer(3, \27[01;35m\27[Kfun1\27[m\27[K, \"sss\");\
+      |               \27[01;35m\27[K^~~~\27[m\27[K\
+      |               \27[01;35m\27[K|\27[m\27[K\
+      |               \27[01;35m\27[Kvoid (*)(char *)\27[m\27[K\
+In file included from \27[01m\27[Kmain.c:1\27[m\27[K:\
+\27[01m\27[Ktimer.h:6:28:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kexpected ‘\27[01m\27[Kfun\27[m\27[K’ {aka ‘\27[01m\27[Kvoid (*)(void *)\27[m\27[K’} but argument is of type ‘\27[01m\27[Kvoid (*)(char *)\27[m\27[K’\
+    6 | int setTimer(int time, \27[01;36m\27[Kfun f\27[m\27[K, void *arg);\
+      |                        \27[01;36m\27[K~~~~^\27[m\27[K\
+\27[01m\27[Kmain.c:10:15:\27[m\27[K \27[01;35m\27[Kwarning: \27[m\27[Kpassing argument 2 of ‘\27[01m\27[KsetTimer\27[m\27[K’ from incompatible pointer type [\27[01;35m\27[K-Wincompatible-pointer-types\27[m\27[K]\
+   10 |   setTimer(5, \27[01;35m\27[Kfun2\27[m\27[K, \"bbbb\");\
+      |               \27[01;35m\27[K^~~~\27[m\27[K\
+      |               \27[01;35m\27[K|\27[m\27[K\
+      |               \27[01;35m\27[Kvoid (*)(char *)\27[m\27[K\
+\27[01m\27[Ktimer.h:6:28:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kexpected ‘\27[01m\27[Kfun\27[m\27[K’ {aka ‘\27[01m\27[Kvoid (*)(void *)\27[m\27[K’} but argument is of type ‘\27[01m\27[Kvoid (*)(char *)\27[m\27[K’\
+    6 | int setTimer(int time, \27[01;36m\27[Kfun f\27[m\27[K, void *arg);\
+      |                        \27[01;36m\27[K~~~~^\27[m\27[K\
+At top level:\
+\27[01m\27[Kcc1:\27[m\27[K \27[01;36m\27[Knote: \27[m\27[Kunrecognized command-line option ‘\27[01m\27[K-Wno-gnu-line-marker\27[m\27[K’ may have been intended to silence earlier diagnostics\
+"
+}

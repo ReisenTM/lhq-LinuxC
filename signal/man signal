@@ -1,0 +1,7 @@
+#ifndef TIMER_H__
+#define TIMER_H__
+int SetTimer(void* func,);
+
+#endif // !TIMER_H__
+
+

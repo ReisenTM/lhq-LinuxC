@@ -1,0 +1,3 @@
+/home/reisen/project/socket/stream_media/server/build/CMakeFiles/server.dir
+/home/reisen/project/socket/stream_media/server/build/CMakeFiles/edit_cache.dir
+/home/reisen/project/socket/stream_media/server/build/CMakeFiles/rebuild_cache.dir

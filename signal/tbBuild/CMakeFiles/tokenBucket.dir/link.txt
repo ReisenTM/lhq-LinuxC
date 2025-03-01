@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g CMakeFiles/tokenBucket.dir/main.c.o CMakeFiles/tokenBucket.dir/tokenBucket.c.o -o tokenBucket 

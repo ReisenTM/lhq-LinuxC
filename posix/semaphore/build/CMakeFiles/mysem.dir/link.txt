@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/mysem.dir/main.c.o CMakeFiles/mysem.dir/sem.c.o -o mysem 
